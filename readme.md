@@ -1,8 +1,13 @@
 # React Weather Application
 
-This is a simple weather application that utilizez the Open Weather Map API. 
+This is a simple weather application that utilizes the Open Weather Map API. 
 
-To run download the zip file and execute: 
+1. Download the zip file
+2. Execute
+```
+npm install 
+```
+3: Then,
 ```
 node server.js
 ```
